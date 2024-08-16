@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "idle",
+			"indices": [],
+			"name": "bad idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 26,
+			"anim": "fastsmash",
+			"loop": true,
+			"name": "bad fastsmash"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "smash",
+			"loop": false,
+			"name": "bad smash"
+		},
+		{
+			"offsets": [
+				10,
+				-21
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "bad left"
+		},
+		{
+			"offsets": [
+				10,
+				0
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "bad right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singUP",
+			"loop": false,
+			"name": "bad up"
+		},
+		{
+			"offsets": [
+				0,
+				-20
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "bad down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/amazingbuddy",
+	"position": [
+		-440,
+		-10
+	],
+	"healthicon": "awesomefrend",
+	"flip_x": false,
+	"healthbar_colors": [
+		34,
+		255,
+		0
+	],
+	"camera_position": [
+		20,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

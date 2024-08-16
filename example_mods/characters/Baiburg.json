@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				354,
+				280
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEFT"
+		},
+		{
+			"offsets": [
+				281,
+				261
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IDLE"
+		},
+		{
+			"offsets": [
+				255,
+				366
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN"
+		},
+		{
+			"offsets": [
+				265,
+				511
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP"
+		},
+		{
+			"offsets": [
+				6,
+				401
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Baiburg",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Baiburg",
+	"flip_x": false,
+	"healthbar_colors": [
+		160,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		-450
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

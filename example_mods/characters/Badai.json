@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				414,
+				280
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEFT"
+		},
+		{
+			"offsets": [
+				181,
+				261
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IDLE"
+		},
+		{
+			"offsets": [
+				215,
+				286
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN"
+		},
+		{
+			"offsets": [
+				165,
+				541
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP"
+		},
+		{
+			"offsets": [
+				-364,
+				291
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Badai",
+	"position": [
+		0,
+		130
+	],
+	"healthicon": "Badai",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		155
+	],
+	"camera_position": [
+		-320,
+		-260
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				390,
+				201
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				390,
+				201
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Dad Sing Note DOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				390,
+				201
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Dad Sing Note UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				390,
+				201
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				390,
+				201
+			],
+			"loop": true,
+			"fps": 60,
+			"anim": "idle",
+			"indices": [],
+			"name": "absobi"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/absobi",
+	"position": [
+		0,
+		120
+	],
+	"healthicon": "absobidave",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		109,
+		0
+	],
+	"camera_position": [
+		-70,
+		190
+	],
+	"sing_duration": 6.1,
+	"scale": 0.4
+}

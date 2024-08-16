@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-89,
+				-308
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "anthonyphase2 idle"
+		},
+		{
+			"offsets": [
+				-89,
+				-318
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "anthonyphase2 down"
+		},
+		{
+			"offsets": [
+				-89,
+				-268
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "anthonyphase2 up"
+		},
+		{
+			"offsets": [
+				-89,
+				-308
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "anthonyphase2 right"
+		},
+		{
+			"offsets": [
+				-69,
+				-308
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "anthonyphase2 left"
+		},
+		{
+			"offsets": [
+				-289,
+				-258
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Shoot",
+			"indices": [],
+			"name": "anthonyphase2 shoot"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/anthonyphase2",
+	"position": [
+		-190,
+		-320
+	],
+	"healthicon": "mantjeremtheor",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		80,
+		120
+	],
+	"camera_position": [
+		-170,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 1.8
+}
