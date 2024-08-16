@@ -57,12 +57,12 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/bambiRemake",
+	"image": "characters/bambino",
 	"position": [
 		10,
 		-100
 	],
-	"healthicon": "bambi",
+	"healthicon": "bambino",
 	"flip_x": false,
 	"healthbar_colors": [
 		0,

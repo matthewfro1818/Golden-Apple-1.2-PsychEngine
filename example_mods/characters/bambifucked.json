@@ -2,77 +2,77 @@
 	"animations": [
 		{
 			"offsets": [
-				-89,
-				-448
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "idle",
-			"indices": [],
-			"name": "Idle0"
-		},
-		{
-			"offsets": [
-				-105,
-				-452
+				-9,
+				10
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "left0"
+			"name": "ripple left"
 		},
 		{
 			"offsets": [
-				-106,
-				-494
+				0,
+				-28
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "down0"
+			"name": "ripple down"
 		},
 		{
 			"offsets": [
-				-48,
-				-447
+				-6,
+				23
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "up0"
+			"name": "ripple up"
 		},
 		{
 			"offsets": [
-				-125,
-				-455
+				18,
+				27
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "right0"
+			"name": "ripple right"
+		},
+		{
+			"offsets": [
+				100,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ripple idle"
 		}
 	],
-	"no_antialiasing": false,
-	"image": "characters/bambiRemake",
+	"no_antialiasing": true,
+	"image": "characters/ripple",
 	"position": [
-		10,
-		-100
+		0,
+		0
 	],
-	"healthicon": "bambi",
+	"healthicon": "bambired3d",
 	"flip_x": false,
 	"healthbar_colors": [
+		195,
 		0,
-		180,
 		0
 	],
 	"camera_position": [
-		-20,
-		380
+		-330,
+		-250
 	],
 	"sing_duration": 6.1,
-	"scale": 1
+	"scale": 1.8
 }

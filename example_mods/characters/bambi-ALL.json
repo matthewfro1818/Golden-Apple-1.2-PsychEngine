@@ -2,77 +2,77 @@
 	"animations": [
 		{
 			"offsets": [
-				-89,
-				-448
+				-130,
+				-327
 			],
 			"loop": false,
-			"fps": 24,
-			"anim": "idle",
-			"indices": [],
-			"name": "Idle0"
-		},
-		{
-			"offsets": [
-				-105,
-				-452
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "left0"
-		},
-		{
-			"offsets": [
-				-106,
-				-494
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "down0"
-		},
-		{
-			"offsets": [
-				-48,
-				-447
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "up0"
-		},
-		{
-			"offsets": [
-				-125,
-				-455
-			],
-			"loop": false,
-			"fps": 24,
+			"fps": 30,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "right0"
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-107,
+				-368
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-93,
+				-329
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-50,
+				-318
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-90,
+				-320
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/bambiRemake",
 	"position": [
-		10,
-		-100
+		-280,
+		-10
 	],
-	"healthicon": "bambi",
+	"healthicon": "all",
 	"flip_x": false,
 	"healthbar_colors": [
-		0,
-		180,
-		0
+		200,
+		181,
+		100
 	],
 	"camera_position": [
-		-20,
-		380
+		510,
+		-130
 	],
 	"sing_duration": 6.1,
-	"scale": 1
+	"scale": 1.1
 }
