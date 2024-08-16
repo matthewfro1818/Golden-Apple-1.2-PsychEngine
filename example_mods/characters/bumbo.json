@@ -3,76 +3,76 @@
 		{
 			"loop": false,
 			"offsets": [
-				-57,
-				-24
+				82,
+				-14
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "left",
+			"name": "Bumbo Left",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				106,
-				16
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "right",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				1,
-				1
+				0,
+				-40
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "down",
+			"name": "Bumbo Down",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-9,
-				-3
+				0,
+				20
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "up",
+			"name": "Bumbo Up",
 			"indices": []
 		},
 		{
-			"offsets": [
-				1,
-				1
-			],
 			"loop": false,
+			"offsets": [
+				-160,
+				-20
+			],
+			"anim": "singRIGHT",
 			"fps": 24,
+			"name": "Bumbo Right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
 			"anim": "idle",
-			"indices": [],
-			"name": "idle"
+			"fps": 24,
+			"name": "Bumbo Idle",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/dingle",
+	"image": "characters/Bumbo",
 	"position": [
-		-30,
-		20
+		-150,
+		0
 	],
-	"healthicon": "dingle",
+	"healthicon": "bumbo",
 	"flip_x": false,
 	"healthbar_colors": [
-		73,
-		70,
-		116
+		0,
+		85,
+		239
 	],
 	"camera_position": [
-		100,
-		10
+		0,
+		60
 	],
 	"sing_duration": 4,
-	"scale": 1.2
+	"scale": 1
 }

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				5,
+				177
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP",
+			"indices": [],
+			"name": "cessated up"
+		},
+		{
+			"offsets": [
+				-155,
+				24
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "cessated right"
+		},
+		{
+			"offsets": [
+				250,
+				34
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "cessated left"
+		},
+		{
+			"offsets": [
+				-46,
+				-250
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "cessated down"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "cessated idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/cessated",
+	"position": [
+		160,
+		230
+	],
+	"healthicon": "cessated",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		127
+	],
+	"camera_position": [
+		-280,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

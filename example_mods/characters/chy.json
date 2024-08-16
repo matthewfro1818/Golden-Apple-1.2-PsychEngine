@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": false,
+			"name": "chy idle"
+		},
+		{
+			"offsets": [
+				323,
+				53
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "chy left"
+		},
+		{
+			"offsets": [
+				-16,
+				-69
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "chy down"
+		},
+		{
+			"offsets": [
+				47,
+				82
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singUP",
+			"loop": false,
+			"name": "chy up"
+		},
+		{
+			"offsets": [
+				-37,
+				45
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "chy right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/chy",
+	"position": [
+		-100,
+		210
+	],
+	"healthicon": "cy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		222,
+		57
+	],
+	"camera_position": [
+		-60,
+		220
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

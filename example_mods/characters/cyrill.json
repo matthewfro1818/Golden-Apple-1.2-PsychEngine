@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				320
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "cyrill_new_sprites idle2"
+		},
+		{
+			"offsets": [
+				0,
+				320
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "idle",
+			"indices": [],
+			"name": "cyrill_new_sprites idle1"
+		},
+		{
+			"offsets": [
+				150,
+				300
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "cyrill_new_sprites singLEFT"
+		},
+		{
+			"offsets": [
+				-315,
+				190
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "cyrill_new_sprites singRIGHT"
+		},
+		{
+			"offsets": [
+				5,
+				70
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "cyrill_new_sprites singDOWN"
+		},
+		{
+			"offsets": [
+				24,
+				371
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUP",
+			"indices": [],
+			"name": "cyrill_new_sprites singUP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				320
+			],
+			"anim": "danceLeft",
+			"fps": 14,
+			"name": "cyrill_new_sprites idle1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cyrill_new_sprites",
+	"position": [
+		360,
+		320
+	],
+	"healthicon": "cyrill",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		236,
+		255
+	],
+	"camera_position": [
+		-580,
+		-730
+	],
+	"sing_duration": 4,
+	"scale": 2.2
+}

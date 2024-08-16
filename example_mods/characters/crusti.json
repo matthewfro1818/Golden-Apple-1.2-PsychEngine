@@ -3,8 +3,19 @@
 		{
 			"loop": false,
 			"offsets": [
-				-57,
-				-24
+				20,
+				170
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				160
 			],
 			"anim": "singLEFT",
 			"fps": 24,
@@ -14,19 +25,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				106,
-				16
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "right",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				1,
-				1
+				-60,
+				240
 			],
 			"anim": "singDOWN",
 			"fps": 24,
@@ -36,8 +36,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-9,
-				-3
+				-40,
+				240
 			],
 			"anim": "singUP",
 			"fps": 24,
@@ -45,34 +45,34 @@
 			"indices": []
 		},
 		{
-			"offsets": [
-				1,
-				1
-			],
 			"loop": false,
+			"offsets": [
+				20,
+				130
+			],
+			"anim": "singRIGHT",
 			"fps": 24,
-			"anim": "idle",
-			"indices": [],
-			"name": "idle"
+			"name": "right",
+			"indices": []
 		}
 	],
-	"no_antialiasing": false,
-	"image": "characters/dingle",
+	"no_antialiasing": true,
+	"image": "characters/crusti",
 	"position": [
-		-30,
-		20
+		-320,
+		190
 	],
-	"healthicon": "dingle",
+	"healthicon": "cruster",
 	"flip_x": false,
 	"healthbar_colors": [
-		73,
-		70,
-		116
+		255,
+		80,
+		0
 	],
 	"camera_position": [
-		100,
-		10
+		0,
+		0
 	],
-	"sing_duration": 4,
-	"scale": 1.2
+	"sing_duration": 6.1,
+	"scale": 0.8
 }

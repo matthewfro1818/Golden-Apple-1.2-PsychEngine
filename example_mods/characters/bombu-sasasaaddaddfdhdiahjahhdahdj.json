@@ -3,76 +3,76 @@
 		{
 			"loop": false,
 			"offsets": [
-				-57,
-				-24
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				106,
-				16
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "right",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				1,
-				1
+				330,
+				-20
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "down",
+			"name": "downbomb",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-9,
-				-3
+				50,
+				60
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "rightbomb",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				450
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "up",
+			"name": "upbomb",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				410,
+				70
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "leftbomb",
 			"indices": []
 		},
 		{
 			"offsets": [
-				1,
-				1
+				120,
+				0
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "idle"
+			"name": "bombuidle"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/dingle",
+	"image": "characters/bombu-Expunged",
 	"position": [
-		-30,
-		20
+		-360,
+		-100
 	],
-	"healthicon": "dingle",
+	"healthicon": "icon-bombai",
 	"flip_x": false,
 	"healthbar_colors": [
-		73,
-		70,
-		116
+		255,
+		0,
+		0
 	],
 	"camera_position": [
-		100,
-		10
+		-320,
+		-95
 	],
-	"sing_duration": 4,
-	"scale": 1.2
+	"sing_duration": 6.1,
+	"scale": 1.1
 }

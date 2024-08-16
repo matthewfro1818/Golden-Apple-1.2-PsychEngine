@@ -3,19 +3,19 @@
 		{
 			"loop": false,
 			"offsets": [
-				-57,
-				-24
+				510,
+				50
 			],
-			"anim": "singLEFT",
+			"anim": "idle",
 			"fps": 24,
-			"name": "left",
+			"name": "idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				106,
-				16
+				721,
+				97
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
@@ -25,19 +25,19 @@
 		{
 			"loop": false,
 			"offsets": [
-				1,
-				1
+				1162,
+				100
 			],
-			"anim": "singDOWN",
+			"anim": "singLEFT",
 			"fps": 24,
-			"name": "down",
+			"name": "left",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-9,
-				-3
+				365,
+				1171
 			],
 			"anim": "singUP",
 			"fps": 24,
@@ -45,34 +45,34 @@
 			"indices": []
 		},
 		{
-			"offsets": [
-				1,
-				1
-			],
 			"loop": false,
+			"offsets": [
+				240,
+				260
+			],
+			"anim": "singDOWN",
 			"fps": 24,
-			"anim": "idle",
-			"indices": [],
-			"name": "idle"
+			"name": "down",
+			"indices": []
 		}
 	],
-	"no_antialiasing": false,
-	"image": "characters/dingle",
+	"no_antialiasing": true,
+	"image": "characters/b-side dude",
 	"position": [
-		-30,
-		20
+		-50,
+		0
 	],
-	"healthicon": "dingle",
+	"healthicon": "hydrogang",
 	"flip_x": false,
 	"healthbar_colors": [
-		73,
-		70,
-		116
+		40,
+		0,
+		40
 	],
 	"camera_position": [
-		100,
-		10
+		-1080,
+		-370
 	],
-	"sing_duration": 4,
-	"scale": 1.2
+	"sing_duration": 6.1,
+	"scale": 1.8
 }

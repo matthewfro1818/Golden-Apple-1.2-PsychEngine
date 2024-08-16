@@ -3,76 +3,76 @@
 		{
 			"loop": false,
 			"offsets": [
-				-57,
-				-24
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				200,
+				-22
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "left",
+			"name": "Left",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				106,
-				16
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "right",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				1,
-				1
+				50,
+				-70
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "down",
+			"name": "Down",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-9,
-				-3
+				-10,
+				-50
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "up",
+			"name": "Up",
 			"indices": []
 		},
 		{
-			"offsets": [
-				1,
-				1
-			],
 			"loop": false,
+			"offsets": [
+				-40,
+				10
+			],
+			"anim": "singRIGHT",
 			"fps": 24,
-			"anim": "idle",
-			"indices": [],
-			"name": "idle"
+			"name": "Right",
+			"indices": []
 		}
 	],
-	"no_antialiasing": false,
-	"image": "characters/dingle",
+	"no_antialiasing": true,
+	"image": "characters/Cheating",
 	"position": [
-		-30,
-		20
+		-260,
+		-50
 	],
-	"healthicon": "dingle",
+	"healthicon": "bambi-3d",
 	"flip_x": false,
 	"healthbar_colors": [
-		73,
-		70,
-		116
+		13,
+		179,
+		27
 	],
 	"camera_position": [
-		100,
-		10
+		-210,
+		-180
 	],
-	"sing_duration": 4,
-	"scale": 1.2
+	"sing_duration": 6.1,
+	"scale": 1.5
 }

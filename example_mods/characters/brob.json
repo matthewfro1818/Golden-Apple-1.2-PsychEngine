@@ -9,70 +9,70 @@
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "IDLE"
+			"name": "idle"
 		},
 		{
 			"offsets": [
-				75,
-				-9
+				172,
+				6
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "LEFT"
+			"name": "left"
 		},
 		{
 			"offsets": [
-				2,
-				50
+				40,
+				-3
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "RIGHT"
+			"name": "right"
 		},
 		{
 			"offsets": [
-				148,
-				-63
+				-47,
+				-27
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "DOWN"
+			"name": "down"
 		},
 		{
 			"offsets": [
-				44,
-				127
+				-46,
+				51
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "UP"
+			"name": "up"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/dale",
+	"image": "characters/brob",
 	"position": [
-		30,
-		210
+		50,
+		260
 	],
-	"healthicon": "dale",
+	"healthicon": "realbrob",
 	"flip_x": false,
 	"healthbar_colors": [
+		0,
 		255,
-		20,
-		60
+		160
 	],
 	"camera_position": [
-		-190,
-		0
+		180,
+		110
 	],
 	"sing_duration": 4,
-	"scale": 1.3
+	"scale": 1
 }

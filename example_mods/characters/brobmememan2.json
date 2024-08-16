@@ -3,8 +3,19 @@
 		{
 			"loop": false,
 			"offsets": [
-				-57,
-				-24
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				172,
+				6
 			],
 			"anim": "singLEFT",
 			"fps": 24,
@@ -14,8 +25,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				106,
-				16
+				40,
+				-3
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
@@ -25,8 +36,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				1,
-				1
+				-47,
+				-27
 			],
 			"anim": "singDOWN",
 			"fps": 24,
@@ -36,43 +47,32 @@
 		{
 			"loop": false,
 			"offsets": [
-				-9,
-				-3
+				-46,
+				51
 			],
 			"anim": "singUP",
 			"fps": 24,
 			"name": "up",
 			"indices": []
-		},
-		{
-			"offsets": [
-				1,
-				1
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "idle",
-			"indices": [],
-			"name": "idle"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/dingle",
+	"image": "characters/fat_bandu",
 	"position": [
-		-30,
-		20
+		50,
+		260
 	],
-	"healthicon": "dingle",
+	"healthicon": "sex",
 	"flip_x": false,
 	"healthbar_colors": [
-		73,
-		70,
-		116
+		0,
+		255,
+		220
 	],
 	"camera_position": [
-		100,
-		10
+		180,
+		110
 	],
 	"sing_duration": 4,
-	"scale": 1.2
+	"scale": 1
 }

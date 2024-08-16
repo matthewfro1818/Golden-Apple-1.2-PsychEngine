@@ -3,76 +3,76 @@
 		{
 			"loop": false,
 			"offsets": [
-				-57,
-				-24
+				120,
+				0
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "left",
+			"name": "Cessated left",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				106,
-				16
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "right",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				1,
-				1
+				-100,
+				-120
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "down",
+			"name": "Cessated down",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-9,
-				-3
+				-10,
+				-40
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "up",
+			"name": "Cessated up",
 			"indices": []
 		},
 		{
-			"offsets": [
-				1,
-				1
-			],
 			"loop": false,
+			"offsets": [
+				-180,
+				-40
+			],
+			"anim": "singRIGHT",
 			"fps": 24,
+			"name": "Cessated right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
 			"anim": "idle",
-			"indices": [],
-			"name": "idle"
+			"fps": 24,
+			"name": "Cessated idle",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/dingle",
+	"image": "characters/Cessated2",
 	"position": [
-		-30,
-		20
+		-700,
+		-330
 	],
-	"healthicon": "dingle",
+	"healthicon": "cessated",
 	"flip_x": false,
 	"healthbar_colors": [
-		73,
-		70,
-		116
+		0,
+		0,
+		65
 	],
 	"camera_position": [
-		100,
-		10
+		270,
+		510
 	],
-	"sing_duration": 4,
-	"scale": 1.2
+	"sing_duration": 6.1,
+	"scale": 0.5
 }

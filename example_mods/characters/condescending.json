@@ -8,27 +8,27 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "dave",
+			"name": "idle",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/dave",
+	"image": "characters/condescending",
 	"position": [
-		0,
-		0
+		-90,
+		-10
 	],
-	"healthicon": "dave",
+	"healthicon": "condescending",
 	"flip_x": false,
 	"healthbar_colors": [
-		15,
 		0,
+		140,
 		0
 	],
 	"camera_position": [
-		-190,
-		-170
+		-330,
+		-400
 	],
-	"sing_duration": 4,
-	"scale": 1.5
+	"sing_duration": 6.1,
+	"scale": 3
 }

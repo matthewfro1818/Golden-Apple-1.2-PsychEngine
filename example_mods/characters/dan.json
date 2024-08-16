@@ -3,76 +3,76 @@
 		{
 			"loop": false,
 			"offsets": [
-				-57,
-				-24
+				-50,
+				70
 			],
-			"anim": "singLEFT",
+			"anim": "idle",
 			"fps": 24,
-			"name": "left",
+			"name": "Dan_Idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				106,
-				16
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "right",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				1,
-				1
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "down",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-9,
-				-3
+				-61,
+				143
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "up",
+			"name": "Dan_Up",
 			"indices": []
 		},
 		{
-			"offsets": [
-				1,
-				1
-			],
 			"loop": false,
+			"offsets": [
+				137,
+				74
+			],
+			"anim": "singLEFT",
 			"fps": 24,
-			"anim": "idle",
-			"indices": [],
-			"name": "idle"
+			"name": "Dan_Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-114,
+				62
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Dan_Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				21
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Dan_Down",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/dingle",
+	"image": "characters/dan",
 	"position": [
-		-30,
-		20
+		-5,
+		350
 	],
-	"healthicon": "dingle",
+	"healthicon": "dan",
 	"flip_x": false,
 	"healthbar_colors": [
-		73,
-		70,
-		116
+		0,
+		0,
+		0
 	],
 	"camera_position": [
-		100,
-		10
+		-60,
+		37
 	],
-	"sing_duration": 4,
-	"scale": 1.2
+	"sing_duration": 6.1,
+	"scale": 0.9
 }

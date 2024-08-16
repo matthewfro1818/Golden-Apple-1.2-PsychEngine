@@ -2,6 +2,50 @@
 	"animations": [
 		{
 			"offsets": [
+				120,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Cessated left"
+		},
+		{
+			"offsets": [
+				-100,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Cessated down"
+		},
+		{
+			"offsets": [
+				-10,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Cessated up"
+		},
+		{
+			"offsets": [
+				-180,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Cessated right"
+		},
+		{
+			"offsets": [
 				0,
 				0
 			],
@@ -9,70 +53,26 @@
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "IDLE"
-		},
-		{
-			"offsets": [
-				75,
-				-9
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "LEFT"
-		},
-		{
-			"offsets": [
-				2,
-				50
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "RIGHT"
-		},
-		{
-			"offsets": [
-				148,
-				-63
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "DOWN"
-		},
-		{
-			"offsets": [
-				44,
-				127
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "UP"
+			"name": "Cessated idle"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/dale",
+	"image": "characters/Cessated",
 	"position": [
-		30,
-		210
+		-700,
+		-330
 	],
-	"healthicon": "dale",
+	"healthicon": "hucd",
 	"flip_x": false,
 	"healthbar_colors": [
-		255,
 		20,
-		60
+		20,
+		65
 	],
 	"camera_position": [
-		-190,
-		0
+		270,
+		510
 	],
-	"sing_duration": 4,
-	"scale": 1.3
+	"sing_duration": 6.1,
+	"scale": 0.5
 }

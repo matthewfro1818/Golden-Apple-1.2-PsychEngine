@@ -3,23 +3,12 @@
 		{
 			"loop": false,
 			"offsets": [
-				-57,
-				-24
+				1,
+				1
 			],
-			"anim": "singLEFT",
+			"anim": "idle",
 			"fps": 24,
-			"name": "left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				106,
-				16
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "right",
+			"name": "dinn idle",
 			"indices": []
 		},
 		{
@@ -30,7 +19,7 @@
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "down",
+			"name": "dinn singdown",
 			"indices": []
 		},
 		{
@@ -41,38 +30,49 @@
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "up",
+			"name": "dinn singup",
 			"indices": []
 		},
 		{
-			"offsets": [
-				1,
-				1
-			],
 			"loop": false,
+			"offsets": [
+				106,
+				16
+			],
+			"anim": "singRIGHT",
 			"fps": 24,
-			"anim": "idle",
-			"indices": [],
-			"name": "idle"
+			"name": "dinn singlight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-57,
+				-24
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "dinn singleft",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/dingle",
+	"image": "characters/dinn",
 	"position": [
-		-30,
-		20
+		-20,
+		260
 	],
-	"healthicon": "dingle",
+	"healthicon": "Dinnerbambi",
 	"flip_x": false,
 	"healthbar_colors": [
-		73,
-		70,
-		116
+		255,
+		216,
+		0
 	],
 	"camera_position": [
 		100,
 		10
 	],
-	"sing_duration": 4,
-	"scale": 1.2
+	"sing_duration": 1.6,
+	"scale": 1.5
 }
