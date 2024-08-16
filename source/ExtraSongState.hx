@@ -62,6 +62,7 @@ class ExtraSongState extends MusicBeatState
 				addWeek(['Sugar-Rush', 'Gift-Card', 'The-Big-Dingle', 'Dale', 'Origin', 'Apprentice', 'Resumed', 'Ready-Loud', 'Bookworm', 'Cuberoot', 'Alternate',
 				'Unhinged', 'Theft', 'Too-Shiny'], 2, ['bandu', 'bandu', 'dingle', 'dale', 'bandu-origin', 'tristan', 'dambu', 'flumpt', 'bookworm', 'disability', 'david',
 				'unhinged', 'garrett', 'diamond']);
+				addWeek(['Sart-Producer'], 4, ['sart-producer']); 
 				//have to add other songs
 			case 1:
 				//oc songs
@@ -77,11 +78,17 @@ class ExtraSongState extends MusicBeatState
 				//have to add other songs
 			case 4:
 				//secret songs
-				addWeek(['Dave-x-Bambi-Shipping-Cute', 'RECOVERED-PROJECT'], 1, ['dave-good', 'RECOVERED_PROJECT']);
+				addWeek(['Dave-x-Bambi-Shipping-Cute', 'RECOVERED-PROJECT', 'Ticking'], 1, ['dave-good', 'RECOVERED_PROJECT', 'ouch']);
 				//have to add other songs
 			case 5:
 				//top 10 songs
-				//since there is nothing there is gonna be a null object reference
+				addWeek(['Slices', 'Poopers', 'Clit ', 'Sweaty_Workout', 'My_Home'], 2, ['bandu', 'brob', 'diamond', 'butch', 'hall-monitor']);
+				addWeek(['Cotton_Candy', 'Balls', '2_Spheres ', 'Jerry_The_Mouse', 'Threesome'], 2, ['badai', 'bambom', 'leak-gf', 'underscore' 'face']);
+				addWeek(['sit_on_my_face', 'amongfairness', 'reflection ', 'bug_eyed_bitch', 'ny_tristan'], 2, ['gunk', 'sus', '3d-bf', 'decdave' '3d-tristan']);
+				addWeek(['Gobbledegook', 'generic', 'chilli_powder ', 'Impregnate', 'fuckity'], 2, ['wtf', 'icons', 'chi', 'scrub' 'ringgonal']);
+				addWeek(['Encrypted', 'pink_bandu', 'locked_lips ', 'fl_keys', 'bandu_radical'], 2, ['ency', 'lullabandu', 'junkers', 'cy' 'radical-nambe']);
+				addWeek(['pee_shooter', 'third_chance', 'second_coming_of_the ', 'i_am_canonically_trans', 'among_us_penis_sex'], 2, ['pee', 'silly', 'clown', 'peesum' 'among']);
+				addWeek(['the_willy_walter_rap'], 2, ['willy']);
 			case 6:
 				//cover songs
 				addWeek(['Sunshine', 'Left-Unchecked', 'Thunderstorm', 'Collision'], 2, ['doll', 'unchecked_icon', 'dave-png', 'diamond']);
