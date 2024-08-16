@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				181,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "heck left"
+		},
+		{
+			"offsets": [
+				0,
+				-260
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "heck down"
+		},
+		{
+			"offsets": [
+				-16,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "heck up"
+		},
+		{
+			"offsets": [
+				0,
+				-73
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "heck right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "heck idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/heck",
+	"position": [
+		-260,
+		-130
+	],
+	"healthicon": "heckbutbad",
+	"flip_x": false,
+	"healthbar_colors": [
+		95,
+		0,
+		0
+	],
+	"camera_position": [
+		-300,
+		-190
+	],
+	"sing_duration": 6.1,
+	"scale": 2.1
+}

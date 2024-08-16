@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				300,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				430,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"offsets": [
+				480,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"offsets": [
+				360,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				430,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/hortasistrue",
+	"position": [
+		320,
+		-10
+	],
+	"healthicon": "hortastrue",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		0,
+		223
+	],
+	"camera_position": [
+		-580,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

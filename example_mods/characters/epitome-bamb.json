@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				-150
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "epitome-bamb left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-140
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "epitome-bamb down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-150
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "epitome-bamb up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				-80
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "epitome-bamb right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-150
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "epitome-bamb idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/epitome-bamb",
+	"position": [
+		140,
+		0
+	],
+	"healthicon": "epi",
+	"flip_x": false,
+	"healthbar_colors": [
+		58,
+		247,
+		99
+	],
+	"camera_position": [
+		-90,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1.8
+}

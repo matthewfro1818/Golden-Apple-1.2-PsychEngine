@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sep left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-130,
+				-300
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sep down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				80
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sep up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-310,
+				27
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sep right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "alt",
+			"indices": [],
+			"name": "sep alt"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "sep alt"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "sep alt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sep-bside",
+	"position": [
+		-420,
+		-210
+	],
+	"healthicon": "sepbside",
+	"flip_x": true,
+	"healthbar_colors": [
+		200,
+		0,
+		0
+	],
+	"camera_position": [
+		-90,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

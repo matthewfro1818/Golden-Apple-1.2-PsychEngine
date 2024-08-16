@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-89,
+				-308
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-89,
+				-308
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-89,
+				-308
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-89,
+				-308
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-89,
+				-308
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/funeralbi",
+	"position": [
+		-420,
+		250
+	],
+	"healthicon": "yourdeath",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-570,
+		-1070
+	],
+	"sing_duration": 6.1,
+	"scale": 3.80000000000002
+}

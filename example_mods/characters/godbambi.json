@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				190,
+				-240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ANIMleft"
+		},
+		{
+			"offsets": [
+				30,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ANIMup"
+		},
+		{
+			"offsets": [
+				-110,
+				-250
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ANIMright"
+		},
+		{
+			"offsets": [
+				20,
+				-340
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ANIMdown"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-230
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IDLE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/godbambi",
+	"position": [
+		-90,
+		-120
+	],
+	"healthicon": "godbambi",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-70,
+		290
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

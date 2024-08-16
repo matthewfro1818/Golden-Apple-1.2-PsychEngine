@@ -3,76 +3,76 @@
 		{
 			"loop": false,
 			"offsets": [
+				-92,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				204,
+				12
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-154,
+				13
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-197
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
 				0,
 				0
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "IDLE",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "LEFT",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-42,
-				5
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "RIGHT",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-3,
-				-33
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "DOWN",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "UP",
+			"name": "idle",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/garrett_algebra",
+	"image": "characters/garrett",
 	"position": [
 		-100,
-		50
+		0
 	],
-	"healthicon": "garrett",
+	"healthicon": "ferocious-garrett",
 	"flip_x": false,
 	"healthbar_colors": [
-		253,
-		253,
-		63
+		250,
+		245,
+		54
 	],
 	"camera_position": [
 		0,
-		-100
+		100
 	],
 	"sing_duration": 4,
-	"scale": 1.3
+	"scale": 1
 }

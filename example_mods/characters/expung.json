@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				181,
+				-90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "expung left"
+		},
+		{
+			"offsets": [
+				120,
+				-210
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "expung down"
+		},
+		{
+			"offsets": [
+				204,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "expung up"
+		},
+		{
+			"offsets": [
+				0,
+				-93
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "expung right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "expung idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/expung",
+	"position": [
+		10,
+		100
+	],
+	"healthicon": "bambiexpunged",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		0,
+		0
+	],
+	"camera_position": [
+		-20,
+		-320
+	],
+	"sing_duration": 6.1,
+	"scale": 3
+}

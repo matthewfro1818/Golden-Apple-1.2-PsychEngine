@@ -8,71 +8,71 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "IDLE",
+			"name": "homoidle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
+				100,
+				10
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "LEFT",
+			"name": "homoleft",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-42,
-				5
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "RIGHT",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-3,
-				-33
+				-30,
+				-60
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "DOWN",
+			"name": "homodown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				40
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "homoup",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
 				0,
-				0
+				-20
 			],
-			"anim": "singUP",
+			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "UP",
+			"name": "homoright",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/garrett_algebra",
+	"image": "characters/newhomophobic",
 	"position": [
-		-100,
-		50
+		-110,
+		30
 	],
-	"healthicon": "garrett",
+	"healthicon": "homo2",
 	"flip_x": false,
 	"healthbar_colors": [
-		253,
-		253,
-		63
+		245,
+		238,
+		10
 	],
 	"camera_position": [
 		0,
-		-100
+		0
 	],
-	"sing_duration": 4,
+	"sing_duration": 6.1,
 	"scale": 1.3
 }
