@@ -2,77 +2,77 @@
 	"animations": [
 		{
 			"offsets": [
-				0,
-				0
+				855,
+				280
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "BlogblezIdle"
+			"name": "Idle"
 		},
 		{
 			"offsets": [
-				285,
-				-76
+				575,
+				234
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "BlogblezLeft"
+			"name": "Left"
 		},
 		{
 			"offsets": [
-				130,
-				-460
+				280,
+				210
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "BlogblezDown"
+			"name": "Down"
 		},
 		{
 			"offsets": [
-				100,
-				110
+				191,
+				687
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "BlogblezUp"
+			"name": "Up"
 		},
 		{
 			"offsets": [
-				-20,
-				-50
+				901,
+				737
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "BlogblezRight"
+			"name": "Right"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/blogblez",
+	"image": "characters/bamburg",
 	"position": [
-		-100,
-		-280
+		-320,
+		70
 	],
-	"healthicon": "blogblez",
+	"healthicon": "homo",
 	"flip_x": false,
 	"healthbar_colors": [
-		0,
-		85,
-		0
+		237,
+		191,
+		16
 	],
 	"camera_position": [
-		-320,
-		270
+		-180,
+		-210
 	],
-	"sing_duration": 6.1,
-	"scale": 1
+	"sing_duration": 4,
+	"scale": 0.7
 }

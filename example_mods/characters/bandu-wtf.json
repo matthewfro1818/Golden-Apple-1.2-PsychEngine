@@ -1,68 +1,68 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "phones fall0017",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "phones fall0017"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				40
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "sad right",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sad right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				-16
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "sad left",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sad left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-8,
 				-5
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "sad down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sad down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				-10
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "sad up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "sad up"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/bandu_sad",
+	"image": "characters/bandu_godel",
 	"position": [
 		-300,
 		-400
 	],
-	"healthicon": "bandu",
+	"healthicon": "wtf",
 	"flip_x": false,
 	"healthbar_colors": [
 		24,

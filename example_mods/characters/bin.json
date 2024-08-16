@@ -3,76 +3,76 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
-			],
-			"anim": "idle",
-			"fps": 24,
-			"name": "phones fall0017",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				40
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "sad right",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				-16
+				-1,
+				520
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "sad left",
+			"name": "right",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-8,
-				-5
+				-3,
+				513
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "sad down",
+			"name": "down",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
 				0,
-				-10
+				520
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "sad up",
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				500
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				498
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/bandu_sad",
+	"image": "characters/bin",
 	"position": [
-		-300,
-		-400
+		-120,
+		730
 	],
-	"healthicon": "bandu",
+	"healthicon": "bin",
 	"flip_x": false,
 	"healthbar_colors": [
-		24,
-		175,
-		11
+		255,
+		75,
+		141
 	],
 	"camera_position": [
-		-100,
-		300
+		-10,
+		-440
 	],
 	"sing_duration": 4,
-	"scale": 0.8
+	"scale": 1.2
 }

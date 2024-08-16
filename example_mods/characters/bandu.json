@@ -1,147 +1,78 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "idle",
-			"indices": [],
-			"name": "idle"
-		},
-		{
-			"offsets": [
-				130,
-				-10
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				-20,
+				498
+			],
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "left"
+			"fps": 24,
+			"name": "left",
+			"indices": []
 		},
 		{
-			"offsets": [
-				0,
-				0
-			],
 			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "down"
-		},
-		{
 			"offsets": [
-				-10,
-				0
+				-1,
+				520
 			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "up"
-		},
-		{
-			"offsets": [
-				-80,
-				0
-			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "right"
+			"fps": 24,
+			"name": "right",
+			"indices": []
 		},
 		{
+			"loop": false,
+			"offsets": [
+				-3,
+				513
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
 			"offsets": [
 				0,
-				0
+				520
 			],
-			"loop": false,
+			"anim": "singUP",
 			"fps": 24,
-			"anim": "fall",
-			"indices": [],
-			"name": "phones fall"
+			"name": "up",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-18,
-				-38
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT-alt",
-			"indices": [],
-			"name": "sad left"
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN-alt",
-			"indices": [],
-			"name": "sad down"
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP-alt",
-			"indices": [],
-			"name": "sad up"
-		},
-		{
-			"offsets": [
-				-10,
-				0
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT-alt",
-			"indices": [],
-			"name": "sad right"
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
 			"loop": true,
-			"fps": 24,
-			"anim": "idle-alt",
-			"indices": [
-				17,
-				17
+			"offsets": [
+				0,
+				500
 			],
-			"name": "phones fall"
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
 		}
 	],
-	"no_antialiasing": true,
+	"no_antialiasing": false,
 	"image": "characters/bandu",
 	"position": [
-		-680,
-		-360
+		-500,
+		80
 	],
 	"healthicon": "bandu",
 	"flip_x": false,
 	"healthbar_colors": [
-		0,
-		215,
-		0
+		24,
+		175,
+		11
 	],
 	"camera_position": [
-		0,
-		0
+		250,
+		-200
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 0.8
 }

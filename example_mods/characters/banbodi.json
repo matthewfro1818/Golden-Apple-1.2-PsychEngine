@@ -5,74 +5,74 @@
 				0,
 				0
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "IDLE0"
+			"loop": false,
+			"name": "idle"
 		},
 		{
 			"offsets": [
-				0,
-				0
+				41,
+				-20
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "LEFT"
+			"loop": false,
+			"name": "left"
 		},
 		{
 			"offsets": [
-				0,
-				0
+				-50,
+				-10
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "DOWN"
+			"loop": false,
+			"name": "down"
 		},
 		{
 			"offsets": [
-				0,
-				0
+				4,
+				100
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "UP"
+			"loop": false,
+			"name": "up"
 		},
 		{
 			"offsets": [
-				0,
-				0
+				-30,
+				-43
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "RIGHT"
+			"loop": false,
+			"name": "right"
 		}
 	],
-	"no_antialiasing": false,
-	"image": "characters/bambom",
+	"no_antialiasing": true,
+	"image": "characters/banbodi",
 	"position": [
-		-630,
-		-340
+		-440,
+		10
 	],
-	"healthicon": "bambom",
+	"healthicon": "banbodi",
 	"flip_x": false,
 	"healthbar_colors": [
-		255,
+		135,
+		2,
+		195
+	],
+	"camera_position": [
 		0,
 		0
 	],
-	"camera_position": [
-		250,
-		400
-	],
 	"sing_duration": 6.1,
-	"scale": 0.7
+	"scale": 1.1
 }

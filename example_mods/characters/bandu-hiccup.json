@@ -7,72 +7,83 @@
 				0
 			],
 			"anim": "idle",
-			"fps": 24,
-			"name": "phones fall0017",
+			"fps": 12,
+			"name": "idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
 				0,
-				40
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "sad right",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				-16
+				0
 			],
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "sad left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-8,
-				-5
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "sad down",
+			"fps": 12,
+			"name": "right",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
 				0,
-				-10
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
 			],
 			"anim": "singUP",
+			"fps": 12,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "Hiccup",
 			"fps": 24,
-			"name": "sad up",
+			"name": "hiccup",
 			"indices": []
 		}
 	],
-	"no_antialiasing": false,
-	"image": "characters/bandu_sad",
+	"no_antialiasing": true,
+	"image": "characters/bandu_hiccup",
 	"position": [
-		-300,
-		-400
+		-137.5,
+		100
 	],
 	"healthicon": "bandu",
 	"flip_x": false,
 	"healthbar_colors": [
-		24,
-		175,
-		11
+		0,
+		215,
+		40
 	],
 	"camera_position": [
-		-100,
-		300
+		0,
+		0
 	],
-	"sing_duration": 4,
-	"scale": 0.8
+	"sing_duration": 6.1,
+	"scale": 1.5
 }

@@ -3,76 +3,76 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
-			],
-			"anim": "idle",
-			"fps": 24,
-			"name": "phones fall0017",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				40
+				1,
+				1
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "sad right",
+			"name": "left",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				-16
+				1,
+				1
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "sad left",
+			"name": "right",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-8,
-				-5
+				1,
+				1
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "sad down",
+			"name": "down",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				-10
+				2,
+				-38
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "sad up",
+			"name": "up",
 			"indices": []
+		},
+		{
+			"offsets": [
+				1,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/bandu_sad",
+	"image": "characters/bf-dingle",
 	"position": [
-		-300,
-		-400
+		-150,
+		80
 	],
-	"healthicon": "bandu",
-	"flip_x": false,
+	"healthicon": "bfdingle",
+	"flip_x": true,
 	"healthbar_colors": [
-		24,
-		175,
-		11
+		134,
+		108,
+		95
 	],
 	"camera_position": [
-		-100,
-		300
+		-60,
+		210
 	],
 	"sing_duration": 4,
-	"scale": 0.8
+	"scale": 0.6
 }

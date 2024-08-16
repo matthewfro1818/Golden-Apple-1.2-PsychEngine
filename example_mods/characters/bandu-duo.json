@@ -9,70 +9,70 @@
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "BlogblezIdle"
+			"name": "IDLE"
 		},
 		{
 			"offsets": [
-				285,
-				-76
+				0,
+				0
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "BlogblezLeft"
+			"name": "LEFT"
 		},
 		{
 			"offsets": [
-				130,
-				-460
+				0,
+				80
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "BlogblezDown"
+			"name": "DOWN"
 		},
 		{
 			"offsets": [
-				100,
-				110
+				0,
+				0
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "BlogblezUp"
+			"name": "UP"
 		},
 		{
 			"offsets": [
-				-20,
-				-50
+				-50,
+				0
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "BlogblezRight"
+			"name": "RIGHT"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/blogblez",
+	"image": "characters/card_bandu",
 	"position": [
-		-100,
-		-280
+		-200,
+		40
 	],
-	"healthicon": "blogblez",
+	"healthicon": "the-fip",
 	"flip_x": false,
 	"healthbar_colors": [
-		0,
-		85,
-		0
+		24,
+		175,
+		11
 	],
 	"camera_position": [
-		-320,
-		270
+		-230,
+		-140
 	],
 	"sing_duration": 6.1,
-	"scale": 1
+	"scale": 1.5
 }
